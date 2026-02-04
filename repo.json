@@ -15,18 +15,21 @@
           "bundleIdentifier": "com.sbuga.retrosekai",
           "developerName": "0x1b1b",
           "subtitle": "Project Sekai but OLD.",
-          "localizedDescription": "RetroSekai is an app similar to PJSK 2.8.0, running on the old UI and letting users experience what PJSK was like in the past. It does not have new charts.",
+          "localizedDescription": "RetroSekai, like most apps by UntitledCharts, is whitelisted! Join our Discord @ https://discord.gg/UntitledCharts. In order to play on this app, you MUST meet the requirements as stated on our Discord server (such as being somewhat active). Any apps listed in this repo will not have outrageous whitelist requirements./n/nWelcome to RetroSekai!n/nRetroSekai is a private server for the popular game Project Sekai (プロセカ, officially HATSUNE MIKU: COLORFUL STAGE) that brings back the game's 2.8.0 version. This version is the last version that has the game's "\old UI\", a nostalgic and cool UI that was modernized after version 3.0.0 (also known as the 3rd anniversary update)./n/nFor more information, join our Discord! You can ask questions or discuss RetroSekai with others.",
           "iconURL": "https://github.com/UntitledCharts/altsidestore-sources/blob/main/RepoAssets/icon.png",
           "tintColor": "#AE34EB",
           "category": "games",
-          "screenshots": [],
+          "screenshotURLs":[
+            "file://assets/gameplay.png.png",
+            "file://assets/titlescreen.png",
+         ],
           "versions": [
              {
-              "version": "0.1.0",
+              "version": "2.8.0",
               "buildVersion": "1",
               "date": "2026-02-04",
               "localizedDescription": "First AltStore release!",
-              "downloadURL": "Placeholder",
+              "downloadURL": "file://assets/ipas/retrosekai.ipa",
               "size": 79821,
               "minOSVersion": "13.0"
             }
