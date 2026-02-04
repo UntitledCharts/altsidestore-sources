@@ -2,7 +2,7 @@
   "name": "UntitledCharts",
   "subtitle": "A source for the PJSK community.",
   "description": "Welcome to the UntitledCharts source! The latest download for Retro Sekai.",
-  "iconURL": "https://github.com/UntitledCharts/altsidestore-sources/blob/main/RepoAssets/icon.png",
+  "iconURL": "file://assets/icon.png",
   "headerURL": "https://cdn.discordapp.com/attachments/1320760161836466257/1331670540447912090/melon-x-not-melo-nx-amiright-guys.png?ex=67f556d6&is=67f40556&hm=71be8f109a14f1c47d8f4965aa017bccb5617962b7a9f5cdfb936a5a8135dad7&",
   "website": "https://discord.gg/UntitledCharts",
   "tintColor": "#86CECB",
