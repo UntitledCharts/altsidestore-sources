@@ -2,7 +2,7 @@
   "name": "UntitledCharts",
   "subtitle": "A source for the PJSK community.",
   "description": "Welcome to the UntitledCharts source! The place to download all our public projects.",
-  "iconURL": "file://assets/icon.png",
+  "iconURL": "file://assets/logo.png",
   "headerURL": "file://assets/banner.png",
   "website": "https://discord.gg/UntitledCharts",
   "tintColor": "#86CECB",
