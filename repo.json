@@ -20,8 +20,8 @@
       "tintColor": "#AE34EB",
       "category": "games",
       "screenshotURLs": [
-        "file://assets/retrosekai/title.png",
-        "file://assets/retrosekai/gameplay.png"
+        "https://repo.untitledcharts.com/assets/retrosekai/title.png",
+        "https://repo.untitledcharts.com/assets/retrosekai/gameplay.png"
       ],
       "versions": [
         {
@@ -43,4 +43,5 @@
   "news": []
 
 }
+
 
