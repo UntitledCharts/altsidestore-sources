@@ -36,11 +36,15 @@
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
+         "privacy": {
+                "NSPhotoLibraryAddUsageDescription": "RetroSekai needs access to your Photo Library in order to save screenshots taken during virtual live events.",
+                "NSCameraUsageDescription": "RetroSekai needs access to your phone’s camera in order to scan QR codes.",
+            }
       }
     }
   ],
   "news": []
 
 }
+
 
