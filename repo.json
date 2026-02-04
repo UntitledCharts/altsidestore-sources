@@ -1,0 +1,46 @@
+{
+  "name": "UntitledCharts",
+  "subtitle": "A source for the PJSK community.",
+  "description": "Welcome to the UntitledCharts source! The latest download for Retro Sekai.",
+  "iconURL": "https://github.com/UntitledCharts/altsidestore-sources/blob/main/RepoAssets/icon.png",
+  "headerURL": "https://cdn.discordapp.com/attachments/1320760161836466257/1331670540447912090/melon-x-not-melo-nx-amiright-guys.png?ex=67f556d6&is=67f40556&hm=71be8f109a14f1c47d8f4965aa017bccb5617962b7a9f5cdfb936a5a8135dad7&",
+  "website": "https://discord.gg/UntitledCharts",
+  "tintColor": "#86CECB",
+  "featuredApps": [
+    "com.sbuga.retrosekai"
+  ],
+  "apps": [
+      {
+          "name": "Retro Sekai!",
+          "bundleIdentifier": "com.sbuga.retrosekai",
+          "developerName": "0x1b1b",
+          "subtitle": "Project Sekai but OLD.",
+          "localizedDescription": "RetroSekai is an app similar to PJSK 2.8.0, running on the old UI and letting users experience what PJSK was like in the past. It does not have new charts.",
+          "iconURL": "https://github.com/UntitledCharts/altsidestore-sources/blob/main/RepoAssets/icon.png",
+          "tintColor": "#AE34EB",
+          "category": "games",
+          "screenshots": [
+              "",
+              ""
+          ],
+          "versions": [
+             {
+              "version": "0.1.0",
+              "buildVersion": "1",
+              "date": "2026-02-04",
+              "localizedDescription": "First AltStore release!",
+              "downloadURL": "Placeholder",
+              "size": 79821,
+              "minOSVersion": "15.0"
+            }
+          ],
+          "appPermissions": {
+            "entitlements": [
+            ], 
+            "privacy": {
+            }
+          }
+      }
+  ],
+  "news": []
+}
