@@ -37,8 +37,10 @@
       "appPermissions": {
         "entitlements": [],
          "privacy": {
-                "NSPhotoLibraryAddUsageDescription": "RetroSekai needs access to your Photo Library in order to save screenshots taken during virtual live events.",
-                "NSCameraUsageDescription": "RetroSekai needs access to your phone’s camera in order to scan QR codes.",
+                "NSPhotoLibraryAddUsageDescription": "RetroSekai needs access to your Photo Library in order to save screenshots taken during virtual live events. / バーチャルライブで撮影したスクリーンショットを保存できるようにします",
+                "NSCameraUsageDescription": "RetroSekai needs access to your phone's camera in order to scan QR codes.",
+                "NSPhotoLibraryUsageDescription": "RetroSekai needs access to your Photo Library in order to save screenshots taken during virtual live events. / バーチャルライブで撮影したスクリーンショットを保存できるようにします",
+                "NSUserTrackingUsageDescription": "\"tracking\" but we disable it, it's still part of the app though (sob)."
             }
       }
     }
