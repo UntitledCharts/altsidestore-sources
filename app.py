@@ -38,7 +38,7 @@ def format_host(obj, host: str):
     return obj
 
 
-format_host(additional_file_routes)
+format_host(additional_file_routes, "doesnotmatter.com")
 
 
 @app.get("/")
