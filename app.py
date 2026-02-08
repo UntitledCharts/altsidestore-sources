@@ -12,6 +12,11 @@ with open("repo.json", "r", encoding="utf-8") as f:
 assets: dict[str, str] = {}
 ASSETS_ROOT = "assets"
 
+additional_file_routes = [
+    "file://assets/ipas/retrosekai-signed-expired.ipa",
+    "file://assets/ipas/retrosekai-signed-expired.plist",
+]
+
 
 def format_host(obj, host: str):
     if isinstance(obj, dict):
@@ -31,6 +36,9 @@ def format_host(obj, host: str):
             return f"https://{host}/assets/{rel_path}"
 
     return obj
+
+
+format_host(additional_file_routes)
 
 
 @app.get("/")
