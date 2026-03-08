@@ -26,7 +26,7 @@
       "versions": [
         {
           "version": "2026.0.0",
-          "buildVersion": "140",
+          "buildVersion": "2026.0.0",
           "date": "2026-03-06",
           "localizedDescription": "RetroSEKAI v2 is out, featuring a new rewrite and English translations.",
           "downloadURL": "file://assets/ipas/retrosekai.ipa",
