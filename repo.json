@@ -25,6 +25,15 @@
       ],
       "versions": [
         {
+          "version": "2026.0.1",
+          "buildVersion": "2026.0.1",
+          "date": "2026-03-19",
+          "localizedDescription": "More English translations, and a data reset!",
+          "downloadURL": "file://assets/ipas/retrosekai_2026_0_1.ipa",
+          "size": 159727169,
+          "minOSVersion": "11.0"
+        },
+        {
           "version": "2026.0.0",
           "buildVersion": "2026.0.0",
           "date": "2026-03-06",
