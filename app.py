@@ -2,7 +2,7 @@ import json, os
 from fastapi import FastAPI, HTTPException, status, Request
 from fastapi.responses import FileResponse
 
-app = FastAPI(openapi_url=None, docs_url=None, redoc_url=None)
+app = FastAPI(openapi_url=None, docs_url=None, redoc_url=None, redirect_slashes=False)
 
 # most simple fastest fastapi app i've ever coded
 
@@ -40,7 +40,9 @@ def format_host(obj, host: str):
     return obj
 
 
+# register files
 format_host(additional_file_routes, "doesnotmatter.com")
+format_host(repo, "doesnotmatter.com")
 
 
 @app.get("/")
