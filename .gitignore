@@ -1,5 +1,6 @@
 # download files
 assets/ipas/
+assets/apks/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
