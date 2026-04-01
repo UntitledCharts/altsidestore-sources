@@ -13,10 +13,10 @@ assets: dict[str, str] = {}
 ASSETS_ROOT = "assets"
 
 additional_file_routes = [
-    "file://assets/ipas/OurStage.ipa",
-    "file://assets/apks/OurStage.apk",
-    "file://assets/ipas/OurStageSBX.ipa",
-    "file://assets/apks/OurStageSBX.apk",
+    "file://assets/ipas/OurStage_6.4.0.ipa",
+    "file://assets/apks/OurStage_6.4.0.apk",
+    "file://assets/ipas/OurStageSBX_6.4.0.ipa",
+    "file://assets/apks/OurStageSBX_6.4.0.apk",
 ]
 
 
